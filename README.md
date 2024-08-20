@@ -7,7 +7,7 @@
 
 I'm a passionate about web development,cyber security and the internet as a whole.I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions and achieve success.
 
-- 🌱 Currently learning: fronstack web development
+- 🌱 Currently learning: Software Development{Full stack,frontend}
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages:English
 - 📫 How to reach me: Leonlewis_1991@outlook.com or +234 902 197 4640
